@@ -26,3 +26,6 @@ To install this app, you need to have Node.js and MongoDB installed on your mach
 To use this app, you need to register an account using either Google or local login. Then you can create your secret by clicking on the "Submit a Secret" button on the home page. Your secret will be stored in the database and displayed on the home page anonymously.You can log out of your account by clicking on the "Log Out" button.
 
 
+## License
+
+This project is licensed under the ISC license.
