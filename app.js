@@ -22,7 +22,7 @@ app.use(bodyParser.urlencoded({
 }));
 
 app.use(session({
-  secret: "EMCEYY SecretSession Project.",
+  secret: process.env.SECRET,
   resave: false,
   saveUninitialized: false
 }));
